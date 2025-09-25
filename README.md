@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
 | [1580-shuffle-the-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
@@ -40,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
