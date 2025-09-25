@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2121-find-if-path-exists-in-graph) |
+## Array
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2048-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
