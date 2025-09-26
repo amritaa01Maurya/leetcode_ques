@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0907-koko-eating-bananas](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0907-koko-eating-bananas) |
@@ -102,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
