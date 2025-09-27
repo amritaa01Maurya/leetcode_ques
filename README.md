@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0907-koko-eating-bananas) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0830-largest-triangle-area) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Enumeration
