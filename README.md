@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0907-koko-eating-bananas) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0367-valid-perfect-square) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Enumeration
 |  |
