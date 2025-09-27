@@ -61,18 +61,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
+## String
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
