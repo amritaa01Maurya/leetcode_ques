@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1580-shuffle-the-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1603-running-sum-of-1d-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Queue
 |  |
 | ------- |
