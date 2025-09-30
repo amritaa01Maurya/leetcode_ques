@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0115-distinct-subsequences) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
