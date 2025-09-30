@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
 ## Sorting
@@ -158,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0088-merge-sorted-array) |
+| [0567-permutation-in-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0115-distinct-subsequences) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0567-permutation-in-string) |
 ## Bucket Sort
 |  |
 | ------- |
