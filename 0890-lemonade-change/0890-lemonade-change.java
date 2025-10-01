@@ -4,10 +4,8 @@ class Solution {
         int totChange = 0;
         int b_5 = 0;
         int b_10 = 0;
-        int b_20 = 0;
         for(int i=0;i<n;i++){
             if(bills[i] == 20){
-                b_20++;
                 if(b_10 > 0 && b_5 > 0){
                     b_10--;
                     b_5--;
