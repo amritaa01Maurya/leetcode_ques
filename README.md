@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0054-spiral-matrix) |
+| [1642-water-bottles](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
+| [1642-water-bottles](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1642-water-bottles) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration
