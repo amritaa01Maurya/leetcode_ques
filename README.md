@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
