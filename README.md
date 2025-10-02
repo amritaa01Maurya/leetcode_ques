@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1127-last-stone-weight](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1127-last-stone-weight) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1580-shuffle-the-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1603-running-sum-of-1d-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
+| [1127-last-stone-weight](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1127-last-stone-weight) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Math
 |  |
