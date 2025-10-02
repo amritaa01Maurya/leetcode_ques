@@ -8,9 +8,9 @@ class Solution {
             int x = pq.poll();
             int y = pq.poll();
             if(y != x){
-                pq.offer(Math.abs(x-y));
+                pq.offer(x-y);
             }
         }
-        return pq.size() == 0 ? 0 : pq.peek();
+        return pq.isEmpty() ? 0 : pq.peek();
     }
 }
