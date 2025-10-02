@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0048-rotate-image) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0115-distinct-subsequences) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
