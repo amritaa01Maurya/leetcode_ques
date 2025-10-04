@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0406-queue-reconstruction-by-height) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
