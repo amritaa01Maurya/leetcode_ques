@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0455-assign-cookies) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0134-gas-station) |
