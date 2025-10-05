@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0131-palindrome-partitioning) |
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
 ## Combinatorics
 |  |
