@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1127-last-stone-weight) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1428-jump-game-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1428-jump-game-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1580-shuffle-the-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1580-shuffle-the-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0078-subsets) |
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0131-palindrome-partitioning) |
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Combinatorics
 |  |
 | ------- |
