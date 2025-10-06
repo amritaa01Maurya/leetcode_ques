@@ -1,12 +1,12 @@
 class Solution {
     public boolean canReach(int[] arr, int start) {
         int n = arr.length;
-        Set<Integer> vis = new HashSet<>();
+        boolean[] vis = new boolean[n];
         ArrayDeque<Integer> dq = new ArrayDeque<>();
         if(arr[start] == 0){
             return true;
         }
-        vis.add(start);
+        vis[start] = true;
         dq.offer(start);
         while(!dq.isEmpty()){
             int pos = dq.poll();
@@ -14,13 +14,13 @@ class Solution {
                 return true;
             }
             int left = pos - arr[pos];
-            if(left >= 0 && !vis.contains(left)){
-                vis.add(left);
+            if(left >= 0 && !vis[left]){
+                vis[left] = true;
                 dq.offer(left);
             }
             int right = pos + arr[pos];
-            if(right < n && !vis.contains(right)){
-                vis.add(right);
+            if(right < n && !vis[right]){
+                vis[right] = true;
                 dq.offer(right);
             }
         }
