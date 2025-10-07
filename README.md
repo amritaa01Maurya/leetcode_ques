@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
 ## Binary Search
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -264,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
@@ -335,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
@@ -347,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
