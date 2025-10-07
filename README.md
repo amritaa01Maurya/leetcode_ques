@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0198-house-robber) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
