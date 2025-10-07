@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0917-boats-to-save-people) |
+| [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1127-last-stone-weight) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Math
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0830-largest-triangle-area) |
+| [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1642-water-bottles) |
@@ -340,10 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0830-largest-triangle-area) |
+| [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 ## Ordered Set
 |  |
 | ------- |
