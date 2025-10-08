@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1642-water-bottles) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3336-water-bottles-ii) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1448-maximum-69-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## String
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -456,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0937-online-stock-span) |
+## Game Theory
+|  |
+| ------- |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
