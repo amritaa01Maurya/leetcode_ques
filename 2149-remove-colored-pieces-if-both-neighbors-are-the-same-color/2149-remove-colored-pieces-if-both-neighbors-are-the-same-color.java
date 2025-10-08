@@ -1,6 +1,6 @@
 class Solution {
-    public boolean winnerOfGame(String colors) {
-        int n = colors.length();
+    public boolean winnerOfGame(String s) {
+        int n = s.length();
         if(n <= 2){
             return false;
         }
@@ -8,20 +8,14 @@ class Solution {
         int count_B = 0;
         int A = 0;
         int B = 0;
-        for(int i=0;i<n;i++){
-            if(colors.charAt(i) == 'A'){
-                if(count_B >= 3) B += count_B-2; 
+        for(int i=1;i<n-1;i++){
+            if(s.charAt(i) == 'A' && s.charAt(i-1) == 'A' && s.charAt(i+1) == 'A'){
                 count_A++;
-                count_B = 0;
-            }else{
-                if(count_A >= 3) A += count_A - 2;
+            }else if(s.charAt(i) == 'B' && s.charAt(i-1) == 'B' && s.charAt(i+1) == 'B'){
                 count_B++;
-                count_A = 0;
             }
         }
-        if(count_B >= 3) B += count_B-2;
-        if(count_A >= 3) A += count_A - 2;
-        if(A <= B){
+        if(count_A <= count_B){
             return false;
         }
         return true;
