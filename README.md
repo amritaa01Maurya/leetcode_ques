@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1666-make-the-string-great](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1666-make-the-string-great) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Bucket Sort
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0937-online-stock-span](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0937-online-stock-span) |
+| [1666-make-the-string-great](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1666-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
