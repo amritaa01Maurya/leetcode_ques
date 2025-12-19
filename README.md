@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0792-binary-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0830-largest-triangle-area) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0917-boats-to-save-people](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 ## Topological Sort
 |  |
 | ------- |
