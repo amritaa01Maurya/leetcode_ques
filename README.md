@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
+| [0994-rotting-oranges](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1447-jump-game-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2121-find-if-path-exists-in-graph) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
+| [0994-rotting-oranges](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
