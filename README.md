@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0785-is-graph-bipartite) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
