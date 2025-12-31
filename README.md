@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0547-number-of-provinces) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0542-01-matrix) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0743-network-delay-time) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Design
