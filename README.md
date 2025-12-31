@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1039-find-the-town-judge) |
 | [1514-path-with-maximum-probability](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1514-path-with-maximum-probability) |
+| [1791-find-center-of-star-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2121-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2359-find-closest-node-to-given-two-nodes) |
