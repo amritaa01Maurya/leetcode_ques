@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1447-jump-game-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1971-find-if-path-exists-in-graph) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2121-find-if-path-exists-in-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Union Find
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1971-find-if-path-exists-in-graph) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2121-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -592,4 +594,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1514-path-with-maximum-probability) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2045-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
