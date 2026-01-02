@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1428-jump-game-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1428-jump-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2121-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1447-jump-game-iv) |
+| [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1971-find-if-path-exists-in-graph) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2121-find-if-path-exists-in-graph) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1580-shuffle-the-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1603-running-sum-of-1d-array) |
+| [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
+| [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Hash Table
@@ -290,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Divide and Conquer
@@ -384,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1127-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1514-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Math
 |  |
