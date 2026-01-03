@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1143-longest-common-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Queue
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0721-accounts-merge) |
 | [1138-alphabet-board-path](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1138-alphabet-board-path) |
+| [1143-longest-common-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1143-longest-common-subsequence) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
