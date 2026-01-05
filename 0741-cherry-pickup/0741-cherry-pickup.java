@@ -1,5 +1,5 @@
 class Solution {
-    public int dfs(int[][] grid, int[][][] dp, int i, int j, int k) {
+    public int dfs(int[][] grid, Integer[][][] dp, int i, int j, int k) {
         int n = grid.length;
         int l = i + j - k;
 
@@ -10,7 +10,7 @@ class Solution {
             return grid[i][j];
         }
 
-        if (dp[i][j][k] != -1) {
+        if (dp[i][j][k] != null) {
             return dp[i][j][k];
         }
 
@@ -26,19 +26,14 @@ class Solution {
         int RD = dfs(grid, dp, i, j + 1, k + 1);
 
         int maxPick = Math.max(RR, Math.max(DR, Math.max(DD, RD)));
-
+        
         return dp[i][j][k] = ans + maxPick;
     }
 
     public int cherryPickup(int[][] grid) {
         int n = grid.length;
 
-        int[][][] dppp = new int[n][n][n];
-        for (int[][] dpp : dppp) {
-            for (int[] dp : dpp) {
-                Arrays.fill(dp, -1);
-            }
-        }
+        Integer[][][] dppp = new Integer[n][n][n];
 
         return Math.max(0, dfs(grid, dppp, 0, 0, 0));
 
