@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0721-accounts-merge) |
+| [0741-cherry-pickup](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0741-cherry-pickup) |
 | [0792-binary-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0830-largest-triangle-area) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0542-01-matrix) |
+| [0741-cherry-pickup](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0542-01-matrix) |
+| [0741-cherry-pickup](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
