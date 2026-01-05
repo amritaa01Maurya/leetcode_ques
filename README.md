@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
