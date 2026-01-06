@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0886-possible-bipartition) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1428-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1971-find-if-path-exists-in-graph) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0994-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1447-jump-game-iv) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2467-most-profitable-path-in-a-tree) |
 ## String Matching
 |  |
@@ -685,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
