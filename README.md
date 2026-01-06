@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1094-car-pooling) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1127-last-stone-weight) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0054-spiral-matrix) |
+| [1094-car-pooling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1094-car-pooling) |
 | [1642-water-bottles](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2058-concatenation-of-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1094-car-pooling) |
 | [1603-running-sum-of-1d-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1603-running-sum-of-1d-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
+| [1094-car-pooling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1127-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1514-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
