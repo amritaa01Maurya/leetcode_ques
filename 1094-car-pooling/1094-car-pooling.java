@@ -5,13 +5,16 @@ class Solution {
         for(int i=0;i<trips.length; i++){
             int start = trips[i][1];
             int end = trips[i][2];
-            for(int j=start;j<end;j++){
-                prefix[j] += trips[i][0];
-                if(prefix[j] > capacity){
-                    return false;
-                }
-            }  
+            prefix[start] += trips[i][0];
+            prefix[end] -= trips[i][0];  
         }
-        return true;
+        int cap = 0;
+        for(int i=0;i<1001;i++){
+            cap += prefix[i];
+            if(cap > capacity){
+                return false;
+            }
+        }
+        return cap <= capacity;
     }
 }
