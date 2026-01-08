@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1668-maximum-repeating-substring) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3489-zero-array-transformation-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3489-zero-array-transformation-iv) |
