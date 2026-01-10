@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1428-jump-game-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1447-jump-game-iv) |
+| [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
 | [1514-path-with-maximum-probability](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1514-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1580-shuffle-the-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1580-shuffle-the-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1447-jump-game-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1447-jump-game-iv) |
+| [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1657-determine-if-two-strings-are-close) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Sorting
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1127-last-stone-weight) |
+| [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
 | [1514-path-with-maximum-probability](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1514-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1448-maximum-69-number) |
+| [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
