@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0162-find-peak-element) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0229-majority-element-ii) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0198-house-robber) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -658,12 +662,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1137-n-th-tribonacci-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
