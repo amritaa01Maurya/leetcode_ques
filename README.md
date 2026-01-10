@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0055-jump-game) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0079-word-search) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0085-maximal-rectangle) |
