@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1428-jump-game-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1447-jump-game-iv) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
 | [1514-path-with-maximum-probability](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1514-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
