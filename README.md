@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-minimum-jumps-to-reach-home](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2048-build-array-from-permutation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2058-concatenation-of-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1657-determine-if-two-strings-are-close) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1448-maximum-69-number) |
 | [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
