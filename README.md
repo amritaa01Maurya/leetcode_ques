@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1657-determine-if-two-strings-are-close) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Divide and Conquer
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1514-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Math
 |  |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2708-maximum-strength-of-a-group) |
