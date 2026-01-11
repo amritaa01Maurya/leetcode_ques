@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0223-rectangle-area) |
+| [0241-different-ways-to-add-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0367-valid-perfect-square](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0367-valid-perfect-square) |
 | [0528-random-pick-with-weight](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
+| [0241-different-ways-to-add-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1137-n-th-tribonacci-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1137-n-th-tribonacci-number) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -718,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 ## Shortest Path
 |  |
 | ------- |
