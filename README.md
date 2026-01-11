@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1039-find-the-town-judge) |
 | [1514-path-with-maximum-probability](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1514-path-with-maximum-probability) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1791-find-center-of-star-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1971-find-if-path-exists-in-graph) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2045-second-minimum-time-to-reach-destination) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1668-maximum-repeating-substring](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1668-maximum-repeating-substring) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2320-count-number-of-ways-to-place-houses) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1514-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Math
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Design
 |  |
@@ -731,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1514-path-with-maximum-probability) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Doubly-Linked List
