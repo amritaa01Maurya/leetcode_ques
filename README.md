@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3489-zero-array-transformation-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3489-zero-array-transformation-iv) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Simulation
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1603-running-sum-of-1d-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1657-determine-if-two-strings-are-close) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sorting
 |  |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
+| [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -677,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0406-queue-reconstruction-by-height) |
+| [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
 ## Memoization
 |  |
 | ------- |
