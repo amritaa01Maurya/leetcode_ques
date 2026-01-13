@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3489-zero-array-transformation-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3489-zero-array-transformation-iv) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Simulation
 |  |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3336-water-bottles-ii) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0204-count-primes) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Greedy
 |  |
 | ------- |
