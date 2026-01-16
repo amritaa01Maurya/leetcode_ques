@@ -4,14 +4,15 @@ class Solution {
         if(n == 1){
             return 4;
         }
-        
-        long[] dp = new long[n+1];
-        dp[0] = 1;
-        dp[1] = 2;
+
+        long a = 1;
+        long b = 2;
         for(int i=2;i<=n;i++){
-            dp[i] = dp[i-1] % mod + dp[i-2] % mod;
+            long c = a % mod + b % mod;
+            a = b;
+            b = c;
         }
-        long ans = (dp[n] * dp[n] )% mod;
+        long ans = (b * b )% mod;
         return (int) ans % mod;
     }
 }
