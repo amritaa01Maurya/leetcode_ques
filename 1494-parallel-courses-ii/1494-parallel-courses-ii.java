@@ -44,14 +44,52 @@ class Solution {
             adj.add(new ArrayList<>());
         }
 
+        int[] prereq = new int[n];
         for(int[] rel:relations){
             int u = rel[0] - 1; // node from 0
             int v = rel[1] - 1;
+            prereq[v] |= (1 << u); // for course v need courses u`s
             adj.get(u).add(v);
         }
-        int[] dp = new int[1 << n];
-        Arrays.fill(dp, -1);
+        int[] dist = new int[1 << n];
+        Arrays.fill(dist, -1);
+        Queue<Integer> q =new LinkedList<>();
+        q.add(0);
+        dist[0] = 0; // no courese taken
+        int finalmask = (1 << n) - 1;
 
-        return solve(n, 0, adj, dp, k); // no course is selected 
+        while(!q.isEmpty()){
+            int currmask = q.remove();
+
+            if(currmask == finalmask){
+                return dist[currmask];
+            }
+
+            int availMask = 0; // courses available
+            for(int i=0;i<n;i++){
+                if((currmask & (1 << i)) == 0 && (prereq[i] & currmask) == prereq[i]){// i is not taken and all prereq courses of i is taken
+                    availMask |= (1 << i);
+                }
+            }
+            int  count = Integer.bitCount(availMask);// count of 1 bit`s
+            if(count > k){ // best min sem combination (check submask of available mask)
+
+                for(int i=availMask; i > 0; i = (i-1) & availMask){
+                    if(Integer.bitCount(i) == k){ 
+                        if(dist[currmask | i] == -1){
+                            dist[currmask | i] = dist[currmask] + 1;
+                            q.add((currmask | i));
+                        }
+                    }
+                }
+            }else{ // take all available course
+                if(dist[currmask | availMask] == -1){
+                    dist[currmask | availMask] = dist[currmask] + 1;
+                    q.add((availMask | currmask));
+                }
+            }
+        }
+
+        return -1;
     }
 }
