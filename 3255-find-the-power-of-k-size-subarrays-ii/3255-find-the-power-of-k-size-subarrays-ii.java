@@ -4,19 +4,19 @@ class Solution {
             return nums;
         }
         int n = nums.length;
-        int[] res = new int[n-k+1];
-        Arrays.fill(res, -1);
-        int len = 1;
-        for(int r=1;r<n;r++){
-            if(nums[r-1] + 1 == nums[r]){
-                len++;
+        int[] ans = new int[n - k + 1];
+        Arrays.fill(ans, -1);
+        int count = 1;
+        for(int i=1;i<n;i++){
+            if(nums[i] == nums[i-1] + 1){
+                count++;
             }else{
-                len = 1;
+                count = 1;
             }
-            if(len >= k){
-                res[r - k + 1] = nums[r];
+            if(count >= k){
+                ans[i - k + 1] = nums[i];
             }
         }
-        return res;
+        return ans;
     }
 }
