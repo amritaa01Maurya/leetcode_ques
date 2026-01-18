@@ -9,7 +9,7 @@ class Solution {
         return pro;
     }
     public int smallestNumber(int n, int t) {
-        for(int i=n;i<10000;i++){
+        for(int i=n;i<=100;i++){
             if(digProduct(i) % t == 0){
                 return i;
             }
