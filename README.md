@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3336-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3649-number-of-perfect-pairs](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3649-number-of-perfect-pairs) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2708-maximum-strength-of-a-group](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2708-maximum-strength-of-a-group) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
