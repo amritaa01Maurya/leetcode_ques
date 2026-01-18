@@ -28,7 +28,7 @@ class Solution {
             if(freq2[i] > freq2[maxEven]){
                 smaxEven = maxEven;
                 maxEven = i;
-            }else if(freq2[i] > freq2[smaxOdd]){
+            }else if(freq2[i] > freq2[smaxEven]){
                 smaxEven = i;
             }
         }
