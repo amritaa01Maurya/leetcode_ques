@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1603-running-sum-of-1d-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
 |  |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3489-zero-array-transformation-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3489-zero-array-transformation-iv) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3685-subsequence-sum-after-capping-elements) |
