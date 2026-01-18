@@ -1,45 +1,43 @@
 class Solution {
     public int minimumOperations(int[] nums) {
         int n = nums.length;
-        Map<Integer, Integer> m1 = new HashMap<>();
-        Map<Integer, Integer> m2 = new HashMap<>();
-        m1.put(-1,0);
-        m2.put(-1,0);
+        int[] freq1 = new int[100001];
+        int[] freq2 = new int[100001];
+        freq1[0] = 0;
+        freq2[0] = 0;
         for(int i=0;i<n;i++){
             if(i % 2 == 0){
-                m1.put(nums[i], m1.getOrDefault(nums[i],0)+1);
+                freq2[nums[i]]++;
             }else{
-                m2.put(nums[i],m2.getOrDefault(nums[i],0)+1);
+                freq1[nums[i]]++;
             }
         }
-
-        int maxOdd = -1;
-        int smaxOdd = -1;
-        for(int key:m2.keySet()){
-            if(m2.get(key) > m2.get(maxOdd)){
+        int maxOdd = 0;
+        int smaxOdd = 0;
+        for(int i=1;i<100001;i++){
+            if(freq1[i] > freq1[maxOdd]){
                 smaxOdd = maxOdd;
-                maxOdd = key;
-            }else if(m2.get(key) > m2.get(smaxOdd)){
-                smaxOdd = key;
+                maxOdd = i;
+            }else if (freq1[i] > freq1[smaxOdd]){
+                smaxOdd = i;
             }
         }
-        int maxEven = -1;
-        int smaxEven = -1;
-        for(int key:m1.keySet()){
-            if(m1.get(key) > m1.get(maxEven)){
+        int maxEven = 0;
+        int smaxEven = 0;
+        for(int i=1;i<100001;i++){
+            if(freq2[i] > freq2[maxEven]){
                 smaxEven = maxEven;
-                maxEven = key;
-            }else if(m1.get(key) > m1.get(smaxEven)){
-                smaxEven = key;
+                maxEven = i;
+            }else if(freq2[i] > freq2[smaxOdd]){
+                smaxEven = i;
             }
         }
 
         int minrem = 0;
         if(maxOdd != maxEven){
-            minrem = n - (m1.get(maxEven) + m2.get(maxOdd));
+            minrem = n - (freq2[maxEven] + freq1[maxOdd]);
         }else {    
-
-            minrem = n - Math.max(m2.get(maxOdd) + m1.get(smaxEven), m1.get(maxEven) + m2.get(smaxOdd));
+            minrem = n - Math.max(freq1[maxOdd] + freq2[smaxEven], freq2[maxEven] + freq1[smaxOdd]);
         }
         return minrem;
     }
