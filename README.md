@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3489-zero-array-transformation-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3489-zero-array-transformation-iv) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3649-number-of-perfect-pairs](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3649-number-of-perfect-pairs) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2708-maximum-strength-of-a-group) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3649-number-of-perfect-pairs](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3649-number-of-perfect-pairs) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Counting
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3649-number-of-perfect-pairs](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3649-number-of-perfect-pairs) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Sliding Window
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Math
 |  |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2708-maximum-strength-of-a-group) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3781-maximum-score-after-binary-swaps) |
 ## String
 |  |
