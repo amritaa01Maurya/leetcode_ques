@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0071-simplify-path) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
