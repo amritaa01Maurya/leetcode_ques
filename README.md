@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0503-next-greater-element-ii) |
 | [0528-random-pick-with-weight](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0528-random-pick-with-weight) |
 | [0542-01-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0594-longest-harmonious-subsequence) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0844-backspace-string-compare) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0937-online-stock-span) |
 ## Backtracking
 |  |
