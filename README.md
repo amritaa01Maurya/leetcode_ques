@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2058-concatenation-of-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2272-substring-with-largest-variance](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2272-substring-with-largest-variance) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1668-maximum-repeating-substring) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2272-substring-with-largest-variance](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2272-substring-with-largest-variance) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
