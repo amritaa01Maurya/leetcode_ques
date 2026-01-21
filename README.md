@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3336-water-bottles-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3377-digit-operations-to-make-two-integers-equal) |
@@ -846,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Shortest Path
 |  |
 | ------- |
