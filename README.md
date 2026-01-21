@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-minimum-jumps-to-reach-home](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-verbal-arithmetic-puzzle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1448-maximum-69-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1642-water-bottles) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1494-parallel-courses-ii) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2683-neighboring-bitwise-xor](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2683-neighboring-bitwise-xor) |
