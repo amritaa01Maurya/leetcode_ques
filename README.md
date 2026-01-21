@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2058-concatenation-of-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2272-substring-with-largest-variance](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2272-substring-with-largest-variance) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0937-online-stock-span) |
 | [1666-make-the-string-great](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1666-make-the-string-great) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Monotonic Stack
 |  |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0937-online-stock-span) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Backtracking
 |  |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0234-palindrome-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Recursion
 |  |
 | ------- |
