@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2429-minimize-xor](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2429-minimize-xor) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2708-maximum-strength-of-a-group) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2429-minimize-xor](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2429-minimize-xor) |
 | [2683-neighboring-bitwise-xor](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2683-neighboring-bitwise-xor) |
 | [2708-maximum-strength-of-a-group](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2708-maximum-strength-of-a-group) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
