@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3489-zero-array-transformation-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3489-zero-array-transformation-iv) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Monotonic Queue
 |  |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Two Pointers
 |  |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2555-maximize-win-from-two-segments](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2555-maximize-win-from-two-segments) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Heap (Priority Queue)
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1666-make-the-string-great) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Monotonic Stack
 |  |
@@ -767,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0937-online-stock-span) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Backtracking
 |  |
@@ -801,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0406-queue-reconstruction-by-height) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
 ## Memoization
 |  |
