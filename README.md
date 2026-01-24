@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2048-build-array-from-permutation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2058-concatenation-of-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Hash Table
 |  |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-minimum-jumps-to-reach-home](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1668-maximum-repeating-substring](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1668-maximum-repeating-substring) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2272-substring-with-largest-variance](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2272-substring-with-largest-variance) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
