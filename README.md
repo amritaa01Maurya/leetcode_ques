@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-minimum-jumps-to-reach-home](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1094-car-pooling) |
 | [1642-water-bottles](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1642-water-bottles) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2073-time-needed-to-buy-tickets) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1642-water-bottles) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -889,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Shortest Path
 |  |
