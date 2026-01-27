@@ -953,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1494-parallel-courses-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1494-parallel-courses-ii) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Bitmask DP
 |  |
