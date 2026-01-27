@@ -1,36 +1,37 @@
 class Solution {
-    public int solve(int[][] queries, int qi, int tidx, int num, int[][] dp) {
-        int n =queries.length;
-        if(num == 0){
+    public int minQuery(int num, int i, int[][] queries, int qi, int[][] dp) {
+        int m = queries.length;
+        if(num == 0){// if we found sum equals to num return the qi
             return qi;
         }
-        if(qi >= n || num < 0){
-            return n+1;
+        if(qi >= m || num < 0){// if num becomes -ve or queries finishes
+            return Integer.MAX_VALUE;
         }
 
-        if(dp[qi][num] != -1){
-            return dp[qi][num];
+        if(dp[num][qi] != -1){
+            return dp[num][qi];
+        }
+        int exc = minQuery(num, i, queries, qi + 1, dp);//skip this query
+        int inc = Integer.MAX_VALUE; 
+        // if  num is in query range  take this query
+        if(i >= queries[qi][0] && i <= queries[qi][1]){
+            inc = minQuery(num - queries[qi][2], i, queries, qi + 1, dp);
         }
 
-        int inc = n+1;
-        if(queries[qi][0] <= tidx && queries[qi][1] >= tidx ){
-            inc = solve(queries, qi + 1, tidx, num - queries[qi][2], dp);
-        }
-        int exc = solve(queries, qi + 1, tidx, num, dp);
-
-        return dp[qi][num] = Math.min(inc, exc);
+        return dp[num][qi] = Math.min(inc, exc);
     }
     public int minZeroArray(int[] nums, int[][] queries) {
-        int n =queries.length;
-        int m = nums.length;
-        int minQ = Integer.MIN_VALUE;
-        for(int i=0;i<m;i++){
-            int[][] dp = new int[n+1][nums[i]+1];
+        int n = nums.length;
+        int m = queries.length;
+        int ans = -1;
+        for(int i=0;i<n;i++){
+            int[][] dp = new int[nums[i]+1][m];
             for(int[] d:dp){
                 Arrays.fill(d, -1);
             }
-            minQ = Math.max(minQ, solve(queries, 0, i, nums[i], dp));
+
+            ans = Math.max(ans, minQuery(nums[i], i, queries, 0, dp));
         }
-        return minQ > n ? -1: minQ;
+        return ans >= Integer.MAX_VALUE ? -1 : ans;
     }
 }
