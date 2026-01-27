@@ -1,17 +1,17 @@
 class Solution {
-    public int solve(List<Integer> l , int i, int k){
-        if(l.size()== 1){
-            return l.get(0);
-        }
-        int nextK = (i+k-1)%l.size();
-        l.remove(nextK);
-        return solve(l, nextK, k);
-    }
     public int findTheWinner(int n, int k) {
-        List<Integer> l = new ArrayList<>();
+        Queue<Integer> q = new LinkedList<>();
         for(int i=1;i<=n;i++){
-            l.add(i);
+            q.add(i);
         }
-        return solve(l, 0, k);
+        while(q.size() != 1){
+            for(int i=1;i<=k;i++){
+                int ele = q.poll();
+                if(i != k){
+                    q.add(ele);
+                }
+            }
+        }
+        return q.poll();
     }
 }
