@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1696-jump-game-vi](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1696-jump-game-vi) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1494-parallel-courses-ii) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1668-maximum-repeating-substring](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1668-maximum-repeating-substring) |
+| [1696-jump-game-vi](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1696-jump-game-vi) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1696-jump-game-vi](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1696-jump-game-vi) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1696-jump-game-vi](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1696-jump-game-vi) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Two Pointers
@@ -584,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1696-jump-game-vi](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1696-jump-game-vi) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
