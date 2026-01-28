@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-minimum-jumps-to-reach-home](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1696-jump-game-vi](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1696-jump-game-vi) |
+| [1726-tuple-with-same-product](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1726-tuple-with-same-product) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1447-jump-game-iv) |
 | [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1657-determine-if-two-strings-are-close) |
+| [1726-tuple-with-same-product](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1726-tuple-with-same-product) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
 | [1034-subarrays-with-k-different-integers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1657-determine-if-two-strings-are-close) |
+| [1726-tuple-with-same-product](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1726-tuple-with-same-product) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Binary Search
