@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2555-maximize-win-from-two-segments](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2555-maximize-win-from-two-segments) |
 | [2683-neighboring-bitwise-xor](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2683-neighboring-bitwise-xor) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2555-maximize-win-from-two-segments](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2555-maximize-win-from-two-segments) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1696-jump-game-vi) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2073-time-needed-to-buy-tickets) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2555-maximize-win-from-two-segments](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2555-maximize-win-from-two-segments) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -696,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2429-minimize-xor](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2429-minimize-xor) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2708-maximum-strength-of-a-group) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
