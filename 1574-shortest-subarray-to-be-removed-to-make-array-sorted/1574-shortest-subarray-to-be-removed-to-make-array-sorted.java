@@ -26,6 +26,6 @@ class Solution {
             }
         }
         
-        return ans > n ? n - 1 : ans;
+        return ans;
     }
 }
