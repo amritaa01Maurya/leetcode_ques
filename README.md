@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2555-maximize-win-from-two-segments](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2555-maximize-win-from-two-segments) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1666-make-the-string-great) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3412-find-mirror-score-of-a-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3412-find-mirror-score-of-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Backtracking
