@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0997-find-the-town-judge) |
 | [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
+| [1019-next-greater-node-in-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1019-next-greater-node-in-linked-list) |
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0937-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1019-next-greater-node-in-linked-list) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1666-make-the-string-great](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1666-make-the-string-great) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2281-sum-of-total-strength-of-wizards) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0937-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1019-next-greater-node-in-linked-list) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2289-steps-to-make-array-non-decreasing) |
