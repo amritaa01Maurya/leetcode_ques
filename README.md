@@ -671,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3336-water-bottles-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3377-digit-operations-to-make-two-integers-equal) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1666-make-the-string-great) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3412-find-mirror-score-of-a-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3412-find-mirror-score-of-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
