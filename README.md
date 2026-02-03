@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0721-accounts-merge) |
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Tree
 |  |
 | ------- |
