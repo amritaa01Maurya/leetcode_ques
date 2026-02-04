@@ -1,6 +1,7 @@
 class Solution {
     public int[] minimumTime(int n, int[][] edges, int[] disappear) {
         List<List<int[]>> adj = new ArrayList<>();
+        
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
@@ -14,34 +15,37 @@ class Solution {
             adj.get(v).add(new int[]{u, t});
         }
 
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)-> a[1] - b[1]);
-        pq.offer(new int[]{0, 0});
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)-> a[1] - b[1]);// sort on the basis of time -> earliest time first
 
-        int[] dist = new int[n];
-        Arrays.fill(dist, Integer.MAX_VALUE);
-        dist[0] = 0;
+        int[] time = new int[n];
+        Arrays.fill(time, Integer.MAX_VALUE);
+        time[0] = 0;
+
+        pq.offer(new int[]{0, 0});// node, time
 
         while(!pq.isEmpty()){
             int[] a=pq.poll();
             int curr = a[0];
             int currtime = a[1];
-            if(currtime > dist[curr] || currtime >= disappear[curr]){
+            if(currtime > time[curr] || currtime >= disappear[curr]){// if the time to reach is greater than its disappear time we cannot go from this node or time to reach at this node greater than time[curr] => prev store min time
                 continue;
             }
+
             for(int[] arr: adj.get(curr)){
                 int neigh = arr[0];
-                int neightime = arr[1];
-                if(currtime + neightime < disappear[neigh] && currtime + neightime < dist[neigh]){
-                    dist[neigh] = currtime + neightime;
-                    pq.offer(new int[]{neigh, dist[neigh]});
+                int tm = arr[1];
+                if(currtime + tm < disappear[neigh] && currtime + tm < time[neigh]){
+                    time[neigh] = currtime + tm;
+                    pq.offer(new int[]{neigh, time[neigh]});
                 }
             }
         }
+
         for(int i=0;i<n;i++){
-            if(dist[i] == Integer.MAX_VALUE){
-                dist[i] = -1;
+            if(time[i] == Integer.MAX_VALUE){// if we did not reach at the particular node
+                time[i] = -1;
             }
         }
-        return dist;
+        return time;
     }
 }
