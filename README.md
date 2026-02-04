@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1094-car-pooling) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1127-last-stone-weight) |
+| [1169-invalid-transactions](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1169-invalid-transactions) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1266-minimum-time-visiting-all-points) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1039-find-the-town-judge) |
 | [1138-alphabet-board-path](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1138-alphabet-board-path) |
+| [1169-invalid-transactions](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1169-invalid-transactions) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1447-jump-game-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1447-jump-game-iv) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
 | [1094-car-pooling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1094-car-pooling) |
+| [1169-invalid-transactions](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1169-invalid-transactions) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0844-backspace-string-compare) |
 | [1138-alphabet-board-path](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1138-alphabet-board-path) |
 | [1143-longest-common-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1143-longest-common-subsequence) |
+| [1169-invalid-transactions](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1169-invalid-transactions) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
