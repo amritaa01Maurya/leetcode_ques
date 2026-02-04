@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2555-maximize-win-from-two-segments](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2555-maximize-win-from-two-segments) |
+| [2653-sliding-subarray-beauty](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2653-sliding-subarray-beauty) |
 | [2683-neighboring-bitwise-xor](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2683-neighboring-bitwise-xor) |
 | [2708-maximum-strength-of-a-group](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2708-maximum-strength-of-a-group) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [2653-sliding-subarray-beauty](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2653-sliding-subarray-beauty) |
 | [3412-find-mirror-score-of-a-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3412-find-mirror-score-of-a-string) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2555-maximize-win-from-two-segments](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2555-maximize-win-from-two-segments) |
+| [2653-sliding-subarray-beauty](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2653-sliding-subarray-beauty) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
