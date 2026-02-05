@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2552-count-increasing-quadruplets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2552-count-increasing-quadruplets) |
 | [2555-maximize-win-from-two-segments](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2555-maximize-win-from-two-segments) |
 | [2653-sliding-subarray-beauty](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2653-sliding-subarray-beauty) |
 | [2683-neighboring-bitwise-xor](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2683-neighboring-bitwise-xor) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2552-count-increasing-quadruplets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2552-count-increasing-quadruplets) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2552-count-increasing-quadruplets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2552-count-increasing-quadruplets) |
 | [2708-maximum-strength-of-a-group](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2708-maximum-strength-of-a-group) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2552-count-increasing-quadruplets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2552-count-increasing-quadruplets) |
 | [2708-maximum-strength-of-a-group](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2708-maximum-strength-of-a-group) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
@@ -926,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0406-queue-reconstruction-by-height) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2250-count-number-of-rectangles-containing-each-point) |
+| [2552-count-increasing-quadruplets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2552-count-increasing-quadruplets) |
 ## Segment Tree
 |  |
 | ------- |
