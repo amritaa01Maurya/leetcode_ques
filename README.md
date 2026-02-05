@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3379-transformed-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3379-transformed-array) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3489-zero-array-transformation-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3489-zero-array-transformation-iv) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2073-time-needed-to-buy-tickets) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3379-transformed-array) |
 | [3412-find-mirror-score-of-a-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3412-find-mirror-score-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3582-generate-tag-for-video-caption) |
 ## Prefix Sum
