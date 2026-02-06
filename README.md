@@ -1071,4 +1071,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
