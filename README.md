@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2552-count-increasing-quadruplets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2552-count-increasing-quadruplets) |
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Randomized
 |  |
 | ------- |
