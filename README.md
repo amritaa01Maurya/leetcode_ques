@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2121-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2045-second-minimum-time-to-reach-destination](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2121-find-if-path-exists-in-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Union Find
 |  |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## String Matching
@@ -1049,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Randomized
 |  |
