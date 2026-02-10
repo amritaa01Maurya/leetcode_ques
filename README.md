@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0207-course-schedule) |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1099,4 +1102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0577-employee-bonus) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
