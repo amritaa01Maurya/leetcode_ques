@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2653-sliding-subarray-beauty) |
 | [3412-find-mirror-score-of-a-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3412-find-mirror-score-of-a-string) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3713-longest-balanced-substring-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sorting
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1726-tuple-with-same-product) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [3713-longest-balanced-substring-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-count-increasing-quadruplets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2552-count-increasing-quadruplets) |
 | [2708-maximum-strength-of-a-group](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2708-maximum-strength-of-a-group) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3713-longest-balanced-substring-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3412-find-mirror-score-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3582-generate-tag-for-video-caption) |
+| [3713-longest-balanced-substring-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3713-longest-balanced-substring-i) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Bucket Sort
 |  |
