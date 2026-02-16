@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0886-possible-bipartition) |
 | [0968-binary-tree-cameras](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1428-jump-game-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1428-jump-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1494-parallel-courses-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1494-parallel-courses-ii) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -1076,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1120,5 +1124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0098-validate-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1932-merge-bsts-to-create-single-bst) |
 <!---LeetCode Topics End-->
