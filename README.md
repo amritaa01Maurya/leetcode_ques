@@ -842,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0190-reverse-bits) |
 | [0371-sum-of-two-integers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0212-word-search-ii) |
+| [0401-binary-watch](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0401-binary-watch) |
 | [1022-unique-paths-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-unique-paths-iii) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
