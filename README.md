@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0844-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0696-count-binary-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0844-backspace-string-compare) |
