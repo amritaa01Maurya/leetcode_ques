@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1382-balance-a-binary-search-tree) |
 | [1428-jump-game-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1428-jump-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1014-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0917-boats-to-save-people](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1018-largest-perimeter-triangle) |
+| [1382-balance-a-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1448-maximum-69-number) |
 | [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -1066,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -1090,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1382-balance-a-binary-search-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1135,5 +1140,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0098-validate-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1382-balance-a-binary-search-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1932-merge-bsts-to-create-single-bst) |
 <!---LeetCode Topics End-->
