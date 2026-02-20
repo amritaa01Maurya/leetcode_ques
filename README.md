@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0886-possible-bipartition) |
 | [0968-binary-tree-cameras](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1428-jump-game-iii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1428-jump-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -1086,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2415-reverse-odd-levels-of-binary-tree) |
