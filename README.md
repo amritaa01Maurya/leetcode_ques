@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1447-jump-game-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1447-jump-game-iv) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1488-avoid-flood-in-the-city](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1488-avoid-flood-in-the-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1657-determine-if-two-strings-are-close) |
 | [1726-tuple-with-same-product](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1726-tuple-with-same-product) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1657-determine-if-two-strings-are-close) |
 | [1666-make-the-string-great](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1666-make-the-string-great) |
 | [1668-maximum-repeating-substring](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1668-maximum-repeating-substring) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1494-parallel-courses-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1494-parallel-courses-ii) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -1109,10 +1112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Function
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Graph Theory
 |  |
