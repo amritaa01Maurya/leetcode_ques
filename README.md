@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0886-possible-bipartition) |
 | [0968-binary-tree-cameras](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0968-binary-tree-cameras) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1078,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0968-binary-tree-cameras) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1103,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0110-balanced-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0968-binary-tree-cameras) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
