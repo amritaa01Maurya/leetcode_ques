@@ -15,21 +15,23 @@
  */
 class Solution {
     int sum = 0;
-    public void solve(TreeNode root, String s) {
+    public void solve(TreeNode root, int val) {
         if(root == null){
             return;
         }
+
         if(root.left == null && root.right == null){
-            s += root.val;
-            sum += Integer.parseInt(s, 2);
+            val = (val << 1) | root.val;
+            sum += val;
             return;
         }
-        solve(root.left, s + root.val);
-        solve(root.right, s + root.val);
+        val = (val << 1) | root.val;
+        solve(root.left, val);
+        solve(root.right, val);
 
     }
     public int sumRootToLeaf(TreeNode root) {
-        solve(root, "");
+        solve(root, 0);
         return sum;
     }
 }
