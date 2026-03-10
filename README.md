@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
+| [0688-knight-probability-in-chessboard](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0688-knight-probability-in-chessboard) |
 | [0741-cherry-pickup](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0847-shortest-path-visiting-all-nodes) |
