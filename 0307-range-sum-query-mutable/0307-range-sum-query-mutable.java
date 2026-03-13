@@ -1,62 +1,40 @@
 class NumArray {
-    int[] st;
+    int[] bit;
     int n;
-    int[] arr;
-
-    public void build(int i, int si, int sj){
-        if(si == sj){
-            st[i] = arr[si];
-            return;
-        }
-        int mid = si + (sj - si)/2;
-        build(2*i+1, si, mid);
-        build(2*i+2, mid+1, sj);
-
-        st[i] = st[2*i+1] + st[2*i+2];
-
-    }
-    public void update(int i, int si, int sj, int idx, int diff){
-        if(idx < si || idx > sj){
-            return;
-        }
-        st[i] += diff;
-        int mid = si + (sj - si)/2;
-        if(si != sj){
-            update(2*i+1, si, mid, idx, diff);
-            update(2*i+2, mid+1, sj, idx, diff);
+    int[] nums;
+    public NumArray(int[] nums2) {
+        nums = nums2;
+        n = nums2.length;
+        bit = new int[n+1];
+        for(int i=0;i<n;i++){
+            update2(i+1, nums[i]);
         }
     }
-    
-    public int sum(int i, int si, int sj, int l, int r){
-        if(sj < l || si > r){
-            return 0;
-        }else if(si >= l && sj <= r){
-            return st[i];
+
+    private void update2(int id, int val){
+        while(id <= n){
+            bit[id] += val;
+            id += (id & -id);
         }
-        int mid = si + (sj - si)/2;
-        int left = sum(2*i+1, si, mid, l, r);
-        int right = sum(2*i+2, mid+1, sj, l, r);
-        
-        return left + right;
     }
 
-
-    public NumArray(int[] nums) {
-        n = nums.length;
-        arr = nums;
-        st= new int[4*n];
-        build(0, 0, n-1);
+    private int query(int id){
+        int ans = 0;
+        while(id > 0){
+            ans += bit[id];
+            id -= (id & -id);// -1 last bit
+        }
+        return ans;
     }
     
     public void update(int index, int val) {
-        int diff = val - arr[index];
-        arr[index] = val;
-
-        update(0, 0, n -1, index, diff);
+        int diff = val - nums[index];
+        nums[index] = val;
+        update2(index+1, diff);
     }
     
     public int sumRange(int left, int right) {
-        return sum(0, 0, n - 1, left, right);
+        return query(right + 1) - query(left);
     }
 }
 
