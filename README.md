@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0844-backspace-string-compare) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0371-sum-of-two-integers) |
 | [0528-random-pick-with-weight](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0528-random-pick-with-weight) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0258-add-digits) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
