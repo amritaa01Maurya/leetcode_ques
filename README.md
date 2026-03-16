@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0322-coin-change) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0367-valid-perfect-square) |
@@ -1072,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
