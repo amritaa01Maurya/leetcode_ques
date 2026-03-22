@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1162-as-far-from-land-as-possible) |
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1791-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Hash Table
