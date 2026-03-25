@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2073-time-needed-to-buy-tickets) |
+| [2080-range-frequency-queries](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2080-range-frequency-queries) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2250-count-number-of-rectangles-containing-each-point) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1726-tuple-with-same-product) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2007-find-original-array-from-doubled-array](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2007-find-original-array-from-doubled-array) |
+| [2080-range-frequency-queries](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2080-range-frequency-queries) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1818-minimum-absolute-sum-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1818-minimum-absolute-sum-difference) |
+| [2080-range-frequency-queries](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2080-range-frequency-queries) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0406-queue-reconstruction-by-height) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [2080-range-frequency-queries](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2080-range-frequency-queries) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3719-longest-balanced-subarray-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3719-longest-balanced-subarray-i) |
@@ -1054,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0307-range-sum-query-mutable) |
 | [0937-online-stock-span](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0937-online-stock-span) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2080-range-frequency-queries](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2080-range-frequency-queries) |
 ## Data Stream
 |  |
 | ------- |
