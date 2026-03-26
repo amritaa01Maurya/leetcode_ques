@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0648-replace-words) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0688-knight-probability-in-chessboard) |
 | [0741-cherry-pickup](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0741-cherry-pickup) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0406-queue-reconstruction-by-height) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2552-count-increasing-quadruplets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2552-count-increasing-quadruplets) |
 ## Segment Tree
@@ -1012,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0406-queue-reconstruction-by-height) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2080-range-frequency-queries](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/2080-range-frequency-queries) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
