@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0401-binary-watch) |
