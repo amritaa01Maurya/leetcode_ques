@@ -862,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0844-backspace-string-compare) |
 | [1138-alphabet-board-path](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1138-alphabet-board-path) |
 | [1143-longest-common-subsequence](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1143-longest-common-subsequence) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1668-maximum-repeating-substring) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Bitmask
