@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1192-critical-connections-in-a-network) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1382-balance-a-binary-search-tree) |
@@ -1189,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1192-critical-connections-in-a-network) |
 | [1462-course-schedule-iv](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1462-course-schedule-iv) |
 | [1494-parallel-courses-ii](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1494-parallel-courses-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1224,4 +1226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1559-detect-cycles-in-2d-grid) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
