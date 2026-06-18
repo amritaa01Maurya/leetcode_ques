@@ -746,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1307-verbal-arithmetic-puzzle) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1642-water-bottles) |
 | [1643-kth-smallest-instructions](https://github.com/amritaa01Maurya/leetcode_ques/tree/master/1643-kth-smallest-instructions) |
